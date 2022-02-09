@@ -1,0 +1,59 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Omni",
+    "explorer.confirmDelete": false,
+    "workbench.iconTheme": "material-icon-theme",
+    "markdown.preview.breaks": true,
+    "editor.wordWrap": "on",
+    "explorer.confirmDragAndDrop": false,
+    "eslint.validate": [
+      "json",
+      "javascript",
+      "javascriptreact",
+      "typescript",
+      "typescriptreact",
+    ],
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "material-icon-theme.activeIconPack": "react_redux",
+    "explorer.compactFolders": false,
+    "git.enableSmartCommit": true,
+    "editor.fontFamily": "Fira Code",
+    "editor.fontLigatures": true,
+    "editor.fontSize": 15,
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[typescript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+      "editor.suggest.insertMode": "replace",
+      "gitlens.codeLens.scopes": [
+        "document"
+      ],
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+      "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "editor.formatOnSave": true,
+    "workbench.editor.enablePreview": false,
+    "explorer.openEditors.visible": 0,
+    "files.associations": {
+      ".html": "html",
+      "*.html": "html"
+    },
+    "bracket-pair-colorizer-2.depreciation-notice": false,
+    "gitlens.advanced.messages": {
+      "suppressGitMissingWarning": true
+    },
+    "terminal.integrated.fontSize": 15,
+    "workbench.tree.indent": 14,
+    "editor.lineHeight": 1.7
+}
