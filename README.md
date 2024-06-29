@@ -40,15 +40,10 @@ I'm a Fullstack developer passionate about creating innovative and efficient sol
 ![GIT](https://img.shields.io/badge/-GIT-F05032?style=flat&logo=git&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-### DevOps
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
-
 ### Design
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-
+[![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)](https://www.canva.com/)
 
 ## 🌐 Connect with Me
 
