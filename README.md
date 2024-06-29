@@ -57,4 +57,6 @@ Click the buttons below to visit my profiles:
 
 ---
 
-✨ Thank you for visiting my profile! Feel free to explore my repositories and get in touch. Let's build something amazing together! 🚀
+Thank you for visiting my profile! 
+
+Feel free to explore my repositories and get in touch. Let's build something amazing together! 🚀 
