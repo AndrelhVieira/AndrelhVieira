@@ -6,11 +6,11 @@
 
 ---
 
-## About Me 👨🏻‍💻
+## 👨🏻‍💻 About Me
 
 I'm a Fullstack developer passionate about creating innovative and efficient solutions. I have experience with cutting-edge technologies and I'm always looking to learn and grow in the field of software development.
 
-🎓 Education:
+### 🎓 Education
 
 - **Kenzie Academy Brasil** - Web Fullstack Development
 - **PUC PR EAD** - Analysis and Systems Development
